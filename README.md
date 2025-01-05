@@ -1,4 +1,4 @@
-# Numerical-Methods-for-Solving-Differential-Equations
+# Numerical Methods for Solving Differential Equations
 
 This repository contains MATLAB scripts for solving ordinary differential equations (ODEs) using numerical methods. The included codes are designed to demonstrate and compare different approaches for solving ODEs.
 
